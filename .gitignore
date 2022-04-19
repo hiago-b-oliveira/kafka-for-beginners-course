@@ -1,0 +1,5 @@
+.**/idea
+/java-app/.gradle/
+/java-app/.gradle/
+/java-app/.idea/
+/java-app/gradle/
